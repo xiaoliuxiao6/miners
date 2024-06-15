@@ -1,1 +1,7 @@
 # miners
+
+
+
+
+
+![](./assets/wx.jpeg)
