@@ -64,3 +64,8 @@ docker info
   http://10.1.7.25:5000/
 ```
 
+---
+
+![](./assets/wx.jpeg)
+
+
